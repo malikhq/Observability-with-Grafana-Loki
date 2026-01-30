@@ -1,6 +1,7 @@
 # Observability-with-Grafana-Loki
 # prerequisite 
 
+
 # Setting up Kubernetes using Minikube
 
 Setting up Kubernetes using Minikube is a straightforward process. Minikube is a tool that allows you to run a single-node Kubernetes cluster locally on your machine. Here's a step-by-step guide to get you started:
