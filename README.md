@@ -1,4 +1,3 @@
-
 # Observability-with-Grafana-Loki
 # prerequisite 
 
